@@ -2,7 +2,7 @@ Hi, I’m Denzel 👋
 
 I'm an aspiring Front End Web Developer 👨‍💻
 
-- 👨‍🎓 I received my Bachelors in Computer Science at University of North Carolina at Charlotte.
+- 👨‍🎓 I received my Bachelors in Computer Science at the University of North Carolina at Charlotte (2020).
 
 - 📚 I’m currently learning advanced JavaScript and React with a heavy background in HTML & SASS/CSS.
 
