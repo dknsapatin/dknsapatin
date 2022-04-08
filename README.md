@@ -4,7 +4,7 @@ I'm an aspiring Front End Web Developer 👨‍💻
 
 - 👨‍🎓 I received my Bachelors in Computer Science at the University of North Carolina at Charlotte (2020).
 
-- 📚 I’m currently learning advanced JavaScript and React with a heavy background in HTML & SASS/CSS.
+- 📚 I’m continuingly learning advanced JavaScript and React with a heavy background in HTML & SASS/CSS.
 
 - 🎯 I enjoy creating modern responsive projects for users to have the ultimate experience with today's technologies.
 
