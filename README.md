@@ -1,5 +1,7 @@
 Hi, I’m Denzel 👋
 
+Checkout my portfolio! --> https://dknsapatin-portfolio.netlify.app/
+
 I'm an aspiring Front End Web Developer 👨‍💻
 
 - 👨‍🎓 I received my Bachelors in Computer Science at the University of North Carolina at Charlotte (2020).
